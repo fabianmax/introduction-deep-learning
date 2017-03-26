@@ -1,5 +1,7 @@
 # Introduction to Deep Learning using Python
 
+
+## Table of Content
 1. [Introduction](https://github.com/fabianmax/introduction-deep-learning/blob/master/01_introduction.ipynb)
    1. Rosenblatt's Perceptron
    2. Limitations of Perceptrons
@@ -19,3 +21,9 @@
    3. Dropout
    4. Batch Normalization
    3. Data Augmentation
+
+
+## References
+* Haykin, Simon (2009) Neural Networks and Learning Machines. Pearson: New Jersey.
+* Goodfellow, Ian et al. (2016) Deep Learning. The MIT Press: Cambridge, Massachusetts.
+* Cristianini, Nello and John Shawe-Taylor (2000) An Introduction to Support Vector Machines and other kernel-based learning methods. Cambridge University Press: Cambridge, UK. 
