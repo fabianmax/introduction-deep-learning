@@ -9,3 +9,13 @@
 3. How Neural Networks Learn
    1. Gradient-based Learning
    2. The Backpropagation Algorithmus
+4. Deep Learning in Python
+   1. Overview
+   2. Tensorflow
+   3. Keras
+4. Regularization
+   1. Weight Decay and other Parameter Penalties
+   2. Early Stopping
+   3. Dropout
+   4. Batch Normalization
+   3. Data Augmentation
