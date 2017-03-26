@@ -24,6 +24,6 @@
 
 
 ## References
-* Haykin, Simon (2009) Neural Networks and Learning Machines. Pearson: New Jersey.
-* Goodfellow, Ian et al. (2016) Deep Learning. The MIT Press: Cambridge, Massachusetts.
-* Cristianini, Nello and John Shawe-Taylor (2000) An Introduction to Support Vector Machines and other kernel-based learning methods. Cambridge University Press: Cambridge, UK. 
+* Haykin, Simon (2009) *Neural Networks and Learning Machines*. Pearson: New Jersey.
+* Goodfellow, Ian et al. (2016) *Deep Learning*. The MIT Press: Cambridge, Massachusetts.
+* Cristianini, Nello and John Shawe-Taylor (2000) *An Introduction to Support Vector Machines and other kernel-based learning methods*. Cambridge University Press: Cambridge, UK. 
